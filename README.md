@@ -1,5 +1,5 @@
 # 1rep
-my first
+my first rep
 Grisha
 10
 POIBMS
